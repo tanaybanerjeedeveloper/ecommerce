@@ -1,9 +1,5 @@
 # Flutter eCommerce App
 
-This is the official Flutter Project for this course:
-
-- [Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
 This will include a full-stack eCommerce app using Flutter & Firebase:
 
 ![eCommerce App Preview](/.github/images/ecommerce-app-preview.png)
