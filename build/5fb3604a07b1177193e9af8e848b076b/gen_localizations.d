@@ -1,0 +1,1 @@
+ /Users/tanaybanerjee/Desktop/ecommerce_app\ 2/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/tanaybanerjee/Desktop/ecommerce_app\ 2/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/tanaybanerjee/Desktop/ecommerce_app\ 2/l10n.yaml /Users/tanaybanerjee/Desktop/ecommerce_app\ 2/lib/src/localization/app_en.arb
